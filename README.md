@@ -1,7 +1,7 @@
 # DeltCraft SoundBoard
 DeltCraft Soundboard allows you to create keyboard shortcuts to trigger sound effects. Key shortcuts are recognized even if application is not focused.
 
-![alt text](https://ibb.co/yyf7pfQ)
+![DCSB](https://i.ibb.co/4Tm32mV/dcsb.png)
 
 # For each sound you can set:
 - Name - to easily identify different sounds

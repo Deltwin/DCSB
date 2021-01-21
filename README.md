@@ -7,3 +7,9 @@ DeltCraft Soundboard allows you to create keyboard shortcuts to trigger sound ef
 - Key or key combination - to play this sound
 - Volume - for this sound
 - Loop - whether or not to loop this sound
+
+# IMPORTANT
+If you come across any bug, something stops working or the program crashes please create issue here or to: https://t.me/DeItwin
+Include as much information as you can provide (any error messages, what stopped working, what were you doing when it happened, what version you are using...). 
+Usually restarting the program/running it as an administrator helps. 
+If you will remove some files (As dll or XML) the software will not start or crash.
